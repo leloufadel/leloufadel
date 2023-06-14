@@ -1,5 +1,6 @@
 
-<h2> Hi, I'm Lala Aicha El Vadel! <img src="/images/lelou.jfif" width="90"></h2>
+<h2> Hi, I'm Lala Aicha El Vadel! 
+<img src="/images/lelou.jfif" width="90"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
