@@ -1,8 +1,8 @@
 
 <h2> Hi, I'm Lala Aicha El Vadel! 
-<img src="/images/lelou.jfif" width="90"></h2>
+<img src="/images/lelou.jfif" width="110"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="40"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-lalaAicha%20Elvadel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalaAichaElVadel/)](https://www.linkedin.com/in/lala-aicha-el-vadel-8563a6202/)
 [![Twitter Badge](https://img.shields.io/badge/-@miss_lalaAicha_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/leloufadel)
@@ -18,7 +18,7 @@ const eliVillalejos = {
   Tailwind CSS, Material UI],
   askMeAbout: [aliabdal, The four season, food recipes , Aya Abassi],
   challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 2+ years of remote work experience with devs 
+  funFacts: ['I have 1+ years of remote work experience with devs 
   from all over the world', 
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
