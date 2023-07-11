@@ -1,41 +1,27 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif" />
+</div>
+<h2 align="center"><i>Hi 👋 Welcome to My World! 👩‍💻</i></h2>
+<div align="center">
+<img align="center"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdiMTM2NTRhNmE2NjE3Njg5ZjdiOTQ1YTJiODc0YzMwZWZlMTNmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/u2qzwz1R4TmWQN5S7n/giphy.gif">
+</div> <br><br>
+<p align="center">I'm Lala Aicha, a passionate software developer with a strong focus on JavaScript and React. I also have a master's degree in network and telecommunications. Currently, I am a student at Microverse, where I am gaining knowledge and experience in software engineering.<br>I am highly motivated, hardworking, and eager to learn and develop my skills further. I believe in creating reliable and efficient applications that provide seamless user experiences. With my creativity, technical expertise, and soft skills, I am confident that I can contribute value to any organization I work with.<br>Please don't hesitate to reach out to me 😊 <br>I would love to connect and explore how I can help you improve and enhance your web-based tools. 👐</p>
 
-<h2> Hi, I'm Lala Aicha El Vadel! 
-<img src="/images/lelou.jfif" width="110"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="40"></p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-lalaAicha%20Elvadel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalaAichaElVadel/)](https://www.linkedin.com/in/lala-aicha-el-vadel-8563a6202/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_lalaAicha_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/leloufadel)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leloufadel&" alt="leloufadel" />
 
+<p> <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leloufadel&theme=react&line_height=40&hide=css"/> </a></p>
+</div>
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const eliVillalejos = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI],
-  askMeAbout: [aliabdal, The four season, food recipes , Aya Abassi],
-  challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 1+ years of remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
-}
-```
-### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   7 hrs 13 mins   █████████████████▓░░░░░░░   70.93 %
-SCSS         2 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   28.79 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
-
-<!--END_SECTION:waka-->
-<!-- 
-<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
-
-<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p> -->
+<div align="center">
+<a href="https://github.com/leloufadel" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/lala-aicha-el-vadel-8563a6202/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leloufadel&label=Profile%20views&color=0e75b6&style=flat" alt="leloufadel" /> </p>
+</div>
