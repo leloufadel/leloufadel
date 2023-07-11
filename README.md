@@ -3,7 +3,7 @@
 </div>
 <h2 align="center"><i>Hi 👋 Welcome to My World! 👩‍💻</i></h2>
 <div align="center">
-<img align="center"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdiMTM2NTRhNmE2NjE3Njg5ZjdiOTQ1YTJiODc0YzMwZWZlMTNmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/u2qzwz1R4TmWQN5S7n/giphy.gif">
+<!-- <img align="center"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdiMTM2NTRhNmE2NjE3Njg5ZjdiOTQ1YTJiODc0YzMwZWZlMTNmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/u2qzwz1R4TmWQN5S7n/giphy.gif"> -->
 </div> <br><br>
 <p align="center">I'm Lala Aicha, a passionate software developer with a strong focus on JavaScript and React. I also have a master's degree in network and telecommunications. Currently, I am a student at Microverse, where I am gaining knowledge and experience in software engineering.<br>I am highly motivated, hardworking, and eager to learn and develop my skills further. I believe in creating reliable and efficient applications that provide seamless user experiences. With my creativity, technical expertise, and soft skills, I am confident that I can contribute value to any organization I work with.<br>Please don't hesitate to reach out to me 😊 <br>I would love to connect and explore how I can help you improve and enhance your web-based tools. 👐</p>
 
